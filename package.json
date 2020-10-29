@@ -1,6 +1,6 @@
 {
   "name": "react_redux_template",
-  "version": "1.0.1",
+  "version": "1.2.2",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.7.0",
