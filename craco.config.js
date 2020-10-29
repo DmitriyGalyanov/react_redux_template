@@ -5,8 +5,14 @@ module.exports = {
 		alias: {
 			'@src': path.resolve(__dirname, 'src'),
 
+			'@contexts': path.resolve(__dirname, 'src', 'contexts'),
+
+			'@propShapes': path.resolve(__dirname, 'src', 'propShapes'),
+
 			'@components': path.resolve(__dirname, 'src', 'Components'),
 			'@pages': path.resolve(__dirname, 'src', 'Pages'),
+
+			'@routes': path.resolve(__dirname, 'src', 'routes'),
 
 			'@stateSlices': path.resolve(__dirname, 'src', 'app', 'stateSlices'),
 
