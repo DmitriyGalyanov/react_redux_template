@@ -12,6 +12,8 @@
 - craco.config.js with default paths aliases
 - App.css => App.scss
 - colors.scss
+- animations.scss
+- fonts
 
 ### How to use
 - clone the entire repository to the root directory of your project

@@ -5,6 +5,8 @@ module.exports = {
 		alias: {
 			'@src': path.resolve(__dirname, 'src'),
 
+			'@fonts': path.resolve(__dirname, 'src', 'fonts'),
+
 			'@contexts': path.resolve(__dirname, 'src', 'contexts'),
 
 			'@propShapes': path.resolve(__dirname, 'src', 'propShapes'),
